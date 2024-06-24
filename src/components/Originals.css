@@ -1,0 +1,22 @@
+.originals {
+    padding: 20px;
+  }
+  
+  .originals h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .originals-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .originals .item {
+    width: 23%;
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+  }

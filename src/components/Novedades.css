@@ -1,0 +1,25 @@
+.novedades-container {
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.novedades-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.novedad-item {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.novedad-item img {
+    max-width: 100%;
+    height: auto;
+}

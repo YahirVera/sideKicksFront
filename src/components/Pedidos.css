@@ -1,0 +1,33 @@
+.pedidos-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .pedidos-title {
+    text-align: center;
+  }
+  
+  .pedidos-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .pedidos-steps {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .pedidos-steps h3 {
+    margin-top: 10px;
+  }
+  
+  .pedidos-contact {
+    margin-top: 20px;
+  }
+  
+  .pedidos-image {
+    margin-top: 20px;
+    width: 80%;
+    height: auto;
+  }

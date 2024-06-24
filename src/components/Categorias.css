@@ -1,0 +1,23 @@
+.categorias {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .categorias h2 {
+    margin-bottom: 20px;
+  }
+  
+  .categorias-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .categoria-item {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
